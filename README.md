@@ -45,14 +45,6 @@ Multiplexer Channels:
 └── Control Logic: Binary Selection
 ```
 
-## 📁 โครงสร้างไฟล์ (File Structure)
-
-```
-Arduino_Nano_Line_Robot/
-├── Exam_Nano_ATmega328.ino    # โค้ดหลัก (Main Program)
-├── Nano_Atmega.h              # ไลบรารีควบคุม (Control Library)
-└── README.md                  # เอกสารนี้
-```
 
 ## 🚀 การติดตั้งและใช้งาน (Installation & Setup)
 
